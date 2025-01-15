@@ -1,0 +1,49 @@
+p {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: black;
+}
+
+.feed-container {
+    display: block;
+}
+
+.video-container {
+    padding-bottom: 5px;
+    display: block;
+}
+
+.video-thumbnail {
+    display: inline-block;
+    padding-right: 8px;
+}
+
+.thumbnail {
+    width: 200px;
+}
+
+.video-info {
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 5px;
+    width: 250px;
+}
+
+.title-container {
+    padding-bottom: 10px;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.author-container, .stats-container {
+    padding-bottom: 5px;
+}
+
+.author, .stats {
+    color: rgb(85, 85, 85)
+}

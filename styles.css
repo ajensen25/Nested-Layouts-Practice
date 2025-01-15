@@ -6,10 +6,7 @@ p {
 }
 
 .profile-container {
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.445);
-    border-radius: 10px;
     width: 300px;
-    margin-bottom: 10px;
 }
 
 .profile-picture-container {
